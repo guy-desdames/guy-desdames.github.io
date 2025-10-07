@@ -64,7 +64,7 @@ Gérard Courant lui a consacré le Cinématon N° 2875, dans sa série de portra
 
 En 2012, il est membre du jury du festival international du court métrage de Sens
 
-Photographe
+## Photographe
 
 Il collabore régulièrement au magazine Moto Journal, dans l’équipe de Frédéric Poujouly. <https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-poujouly-3bb6b36/?originalSubdomain=fr>
 <https://fr.downmagaz.net/car_magazine_moto_francaise/98986-moto-journal-fevrier-2025-no-2379.html>
@@ -75,7 +75,7 @@ Il produit d’innombrables photos et vidéos de concerts de musiciens tourné e
 En 1983 il prend l’initiative de l’exposition des travaux du peintre graveur Michel Joyard au Musée des Ursulines de Mâcon. À cette occasion il produit une abondante iconographie sur l’artiste auquel il avait consacré un essai destiné aux professionnels.
 <https://www.joyard.art/biographie>
 
-Écrivain
+## Écrivain
 
 Son parcours riche d’expériences diverses
 <https://rxcmusic.bandcamp.com/track/comptoir-feat-guy-desdames>
