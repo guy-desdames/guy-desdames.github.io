@@ -116,6 +116,6 @@ Dépôt légal à la BNF 0000001218328
 Ce tableau serait incomplet sans la touche de distance amusée qui lui valut d’être intronisé Beurdignaud dans une fratrie de joyeux drilles, les Beurdins de Bourbon-Lancy.
 <https://www.lejsl.com/societe/2022/09/24/la-fratrie-des-beurdins-intronise-un-beurdiniaud-aux-multiples-facettes-artistiques>
 
-_Le film Show Buzz de Rached M’dini se termine avec un plan sur Guy Desdames aux commandes de sa machine Orphée. Rached M’dini donne à Orphée le pouvoir de commander le dé-nouement de l’histoire qui n’aurait pas connu de fin sans le regard privilégié offert par cet instru-ment, facilitant l’architecture du montage et permettant de faire dire aux acteurs ce qui est oppor-tun pour l’économie artistique de l’œuvre._
+_Le film Show Buzz de Rached M’dini se termine avec un plan sur Guy Desdames aux commandes de sa machine Orphée. Rached M’dini donne à Orphée le pouvoir de commander le dé-nouement de l’histoire qui n’aurait pas connu de fin sans le regard privilégié offert par cet instru-ment, facilitant l’architecture du montage et permettant de faire dire aux acteurs ce qui est opportun pour l’économie artistique de l’œuvre._
 
 ![Le film Show Buzz de Rached M’dini se termine avec un plan sur Guy Desdames aux commandes de sa machine Orphée](show-buzz.png)
