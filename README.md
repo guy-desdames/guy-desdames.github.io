@@ -28,7 +28,10 @@ Avec le concours du GREC (groupe de Recherche et d’Essais Cinématographiques)
 
 Les cinéphiles mâconnais l’élisent président de leur cinéclub l’Embobiné, en 1985
 
-- <https://www.youtube.com/watch?v=bf2pWHdrKlI>
+{% include youtube.html
+    id="bf2pWHdrKlI"
+%}
+
 - <https://www.lejsl.com/edition-macon/2015/05/03/carte-blanche-a-guy-desdames-1er-president-de-l-embobine>
 - <https://www.lejsl.com/edition-macon/2015/05/07/30-ans-de-bons-souvenirs-revisites-au-cinema>
 
@@ -50,20 +53,34 @@ _La machine Orphée développée par Guy Desdames_
 Cet outil réalisera dans ce secteur le pont avec les techniques numériques qui se mettent en place avec la généralisation de l’usage de l’ordinateur pour lequel le Centre National du Cinéma et de l’Image animée aidera significativement Guy Desdames dans la mission qui l’incombe dorénavant pour la modernisation de cette branche des industries techniques. Il organise régulièrement des événements
 <https://www.leparisien.fr/seine-saint-denis-93/ici-il-y-a-un-authentique-dynamisme-18-03-2003-2003914398.php>
 et crée des formations
-<https://www.youtube.com/watch?v=vXyYHIrwiQQ> pour promouvoir ce secteur où il apporte également un algorithme synchronisant le code temporel des systèmes PAL SECAM avec le NTSC drop-frame qui facilitera les échanges de programmes entre l’Europe et le continent américain.
+
+{% include youtube.html
+    id="vXyYHIrwiQQ"
+%}
+
+pour promouvoir ce secteur où il apporte également un algorithme synchronisant le code temporel des systèmes PAL SECAM avec le NTSC drop-frame qui facilitera les échanges de programmes entre l’Europe et le continent américain.
 <https://phonations.github.io/fr>
 
 Sa double compétence de technicien et de comédien lui vaut d’être sollicité par différents studios de la place parisienne où il assure les travaux de finition de nombreux films notamment la série des “Nestor Burma“ dans laquelle Guy Marchand tient le rôle principal. <https://www.imdb.com/fr/name/nm2637654/>
 
 Il joue le rôle du grand Zarathoustra dans “Show buzz“ \*de Rached M’dini, dont il a produit les premiers films.
-<https://www.youtube.com/watch?v=aI9F2mKMrt4> <https://www.imdb.com/fr/name/nm2637654/>
+
+{% include youtube.html
+    id="aI9F2mKMrt4"
+%}
+
+<https://www.imdb.com/fr/name/nm2637654/>
 
 En 2015, il joue le rôle de Patrice Durand (alias DSK), interprétation en anglais, réal Jeff Espanol, prod FTM INC 7095 Hollywood
 
 Il prête son dos et sa silhouette à Léo Ferré dans le web doc “Léo Ferré un homme libre“, réalisation Natalie Frassoni, prod Lady Birds Films Paris.
 <https://www.capuseen.com/films/7787-leo-ferre-un-homme-libre>
 
-Gérard Courant lui a consacré le Cinématon N° 2875, dans sa série de portraits de personnalités des arts et du spectacle. <https://www.youtube.com/watch?v=Ikd2fSM0umE>
+Gérard Courant lui a consacré le Cinématon N° 2875, dans sa série de portraits de personnalités des arts et du spectacle.
+
+{% include youtube.html
+    id="Ikd2fSM0umE"
+%}
 
 En 2012, il est membre du jury du festival international du court métrage de Sens
 
