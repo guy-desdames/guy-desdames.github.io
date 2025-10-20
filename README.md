@@ -58,6 +58,8 @@ Sa double compétence de technicien et de comédien lui vaut d’être sollicit�
 Il joue le rôle du grand Zarathoustra dans “Show buzz“ \*de Rached M’dini, dont il a produit les premiers films.
 <https://www.youtube.com/watch?v=aI9F2mKMrt4> <https://www.imdb.com/fr/name/nm2637654/>
 
+En 2015, il joue le rôle de Patrice Durand (alias DSK), interprétation en anglais, réal Jeff Espanol, prod FTM INC 7095 Hollywood
+
 Il prête son dos et sa silhouette à Léo Ferré dans le web doc “Léo Ferré un homme libre“, réalisation Natalie Frassoni, prod Lady Birds Films Paris.
 <https://www.capuseen.com/films/7787-leo-ferre-un-homme-libre>
 
