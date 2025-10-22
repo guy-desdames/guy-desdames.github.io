@@ -6,7 +6,7 @@ permalink: /
 
 _Guy Desdames en 2003_
 
-![Guy Desdames en 2003](portrait.jpg)
+![Guy Desdames en 2003](guy-desdames.webp)
 
 Guy Desdames est principalement connu dans le cinéma pour sa machine Orphée, qui a révolutionné les pratiques de la postsynchronisation et du doublage mais outre ses qualités de constructeur et de concepteur de systèmes, il est également réalisateur, producteur, comédien, photographe et écrivain.
 
@@ -48,7 +48,7 @@ Tout en traitant la synchronisation d’auditoriums présentant de grandes compl
 
 _La machine Orphée développée par Guy Desdames_
 
-![La machine Orphée développée par Guy Desdames](machine-orphee.png)
+![La machine Orphée développée par Guy Desdames](machine-orphee.webp)
 
 Cet outil réalisera dans ce secteur le pont avec les techniques numériques qui se mettent en place avec la généralisation de l’usage de l’ordinateur pour lequel le Centre National du Cinéma et de l’Image animée aidera significativement Guy Desdames dans la mission qui l’incombe dorénavant pour la modernisation de cette branche des industries techniques. Il organise régulièrement des événements
 <https://www.leparisien.fr/seine-saint-denis-93/ici-il-y-a-un-authentique-dynamisme-18-03-2003-2003914398.php>
