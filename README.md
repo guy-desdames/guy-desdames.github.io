@@ -29,6 +29,7 @@ Avec le concours du GREC (groupe de Recherche et d’Essais Cinématographiques)
 Les cinéphiles mâconnais l’élisent président de leur cinéclub l’Embobiné, en 1985
 
 {% include youtube.html
+    title="Les 30 ans de L'Embobiné # 1 - A l'origine"
     id="bf2pWHdrKlI"
 %}
 
@@ -55,6 +56,7 @@ Cet outil réalisera dans ce secteur le pont avec les techniques numériques qui
 et crée des formations
 
 {% include youtube.html
+    title="Paul Memmi et la Sémiolinguistique du Doublage"
     id="vXyYHIrwiQQ"
 %}
 
@@ -66,6 +68,7 @@ Sa double compétence de technicien et de comédien lui vaut d’être sollicit�
 Il joue le rôle du grand Zarathoustra dans “Show buzz“ \*de Rached M’dini, dont il a produit les premiers films.
 
 {% include youtube.html
+    title="Guy Desdames dans Show Buzz de Rashed M’dini"
     id="aI9F2mKMrt4"
 %}
 
@@ -79,6 +82,7 @@ Il prête son dos et sa silhouette à Léo Ferré dans le web doc “Léo Ferré
 Gérard Courant lui a consacré le Cinématon N° 2875, dans sa série de portraits de personnalités des arts et du spectacle.
 
 {% include youtube.html
+    title=" Guy Desdames (2015) by Gérard Courant - Cinématon #2875 "
     id="Ikd2fSM0umE"
 %}
 
