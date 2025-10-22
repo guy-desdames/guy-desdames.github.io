@@ -107,7 +107,7 @@ En conséquence il vaut mieux se fier à notre expérience pour avancer sainemen
 ISBN 979-10-976-3610-4
 
 “On ne naît pas Parisien, on le devient“ est son autobiographie et ce sont carrément des millénaires qu’il ne se gêne pas d’ausculter depuis le fond de son lit.
-En réalité, cette acuité ne lui vientelle pas de la simplicité des tréfonds de ses origines rurales où tout doit se faire en interaction avec les lois dictées par la nature, le cosmos.
+En réalité, cette acuité ne lui vient-elle pas de la simplicité des tréfonds de ses origines rurales où tout doit se faire en interaction avec les lois dictées par la nature, le cosmos.
 ISBN 979-10-415-3881-2
 
 “Sous le ciel de la rue Saint Denis“ est une monographie qu’il consacre au quartier où il partage des jours heureux avec son voisinage en faisant tomber quelques idées reçues, par exemple celle selon laquelle les Parisiens ne seraient pas sociables et avec une même facilité, quelques mythes qu’il est bon de voir enfin éclairés au coin du bon sens.
