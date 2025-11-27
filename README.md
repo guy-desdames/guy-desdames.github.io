@@ -20,9 +20,11 @@ Ses inclinations et son entourage le conduisent très vite à se manifester dans
 
 La prestation de Jean Pierre Sentier jouant le rôle de Guillaume Nogaret dans le Procès des Templiers aura sur lui un effet durable, lui donnant l’audace d’être le personnage principal de son premier court métrage expérimental “L’appétit chez les cannibales“ dont il compose également la musique originale. Il sera remarqué en 1975 aux Rencontres cinématographiques des jeunes auteurs de Belfort (non compétitives) dont le jury est présidé par Armand Deleule (dit Chartier) et un conseil des sages placé sous le regard du peintre cinéaste Robert Lapoujade et celui du critique cinéma Rui Nogueira.
 
-Sa vocation est trouvée. Il abandonne l’industrie, devient comédien professionnel et avec deux autres mâconnais passionnés de cinéma, Jacques Donjon et Jean Monnier, il crée Arcane Films une société de production cinéma indépendante qui produira de nombreux documentaires de création axés principalement sur la société viticole qui constitue leur bassin culturel.
+Sa vocation est trouvée. Il abandonne l’industrie, devient comédien professionnel. Avec Annick Michaud et Roger Bardelot il fonde la troupe du "Théâtre du temps qu’il fait" qui produira des spectacles pour le jeune public et aussi avec deux autres mâconnais passionnés de cinéma, Jacques Donjon et Jean Monnier, il crée Arcane Films une société de production cinéma indépendante qui produira de nombreux documentaires de création axés principalement sur la société viticole qui constitue leur bassin culturel.
 Cette activité dépassant le cadre de la production cinéma stricto sensu prendra l’allure d’une animation culturelle dont la presse rendra compte régulièrement.
 Une association loi de 1901, l’ARAC est créé pour administrer ce pôle audiovisuel décentralisé comprenant aussi une école de cinéma.
+
+Avec FR3 Bourgogne (aujourd’hui France 3) où il est JRI pigiste il produit une série télévisée de 5 épisodes "Les mémoires d’Alfred" consacrée à la vie de Monsieur Picollet, un de ces vignerons du Moulin à vent qui ont bâti la réputation des vins du Beaujolais.
 
 Avec le concours du GREC (groupe de Recherche et d’Essais Cinématographiques), Guy Desdames réalise son deuxième film expérimental “Élixir de Vie“ soutenu par Jean Rouch et présenté au CNC en 1985.
 
